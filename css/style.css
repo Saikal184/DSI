@@ -166,7 +166,7 @@ button {
   }
 }
 #dog {
-  padding-block: 20px;
+  padding-block: 10px;
   background-color: #ee4248;
   .dog {
     padding-left: 425px;
